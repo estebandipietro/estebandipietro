@@ -5,7 +5,7 @@ I'm a Frontend developer with my ♥ currently in [React](https://reactjs.org).
 
 ## What i'm up to
 
-- 🔭 I’m currently working @ [Lamansys](https://lamansys.com.ar/).
+- 🔭 I’m currently working @ [Sifted](https://sifted.com/).
 - 🌱 I’m currently working with [React](https://reactjs.org).
 - 👯 I also love [Angular](https://angular.io/) as it was my first experience as a software developer.
 
