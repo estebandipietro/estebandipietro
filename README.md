@@ -1,18 +1,41 @@
-## Hello World 👋 I'm Esteban!
+## Hi, I'm Esteban Di Pietro 👋!
+
+### Frontend Software Engineer
+
+---
+
 I'm a Frontend developer with my ♥ currently in [React](https://reactjs.org).
 
-<br />
+---
 
 ## What i'm up to
 
 - 🔭 I’m currently working @ [Rootstrap](https://www.rootstrap.com/).
-- 🌱 I’m currently working with [React](https://reactjs.org).
-- 👯 I also love [Angular](https://angular.io/) as it was my first experience as a software developer.
+- 🌱 I’m currently working with [React](https://reactjs.org) and [Next.JS](https://nextjs.org/).
 
-<br />
+---
 
 ## Languages and Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+- **Languages**: JavaScript, TypeScript, Java.
+- **Technologies**: ReactJS, Next.JS, Node Js.
+
+---
+
+## 🎓 Education
+
+BS in Systems Engineering.
+
+---
+
+## 📫 How to reach me 
+
+- [LinkedIn](https://www.linkedin.com/in/esteban-di-pietro/)
+
+---
+
+## 🎈 Other Interests 
+
+- Devops
+- Accessibility
+- Machine Learning
+- Mobile Apps Development
