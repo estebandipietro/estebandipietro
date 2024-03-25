@@ -4,7 +4,7 @@
 
 ---
 
-I'm a Frontend developer with my ♥ currently in [React](https://reactjs.org).
+I'm a Frontend developer with my ♥ currently in [React](https://reactjs.org), but always with an eye in anything javascript related 🚀.
 
 ---
 
@@ -17,19 +17,20 @@ I'm a Frontend developer with my ♥ currently in [React](https://reactjs.org).
 
 ## Languages and Tools
 - **Languages**: JavaScript, TypeScript, Java.
-- **Technologies**: ReactJS, Next.JS, Node Js.
-
----
-
-## 🎓 Education
-
-BS in Systems Engineering.
+- **Technologies**: ReactJS, Next.JS, Node Js, Vite, Figma.
 
 ---
 
 ## 📫 How to reach me 
 
+- ✉️  You can contact me at dipietroesteban@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/esteban-di-pietro/)
+  
+---
+
+## 🎓 Education
+
+BS in Systems Engineering.
 
 ---
 
